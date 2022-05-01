@@ -13,7 +13,7 @@
         "image": "./assets/images/Note-Taker.png",
         "github": "https://github.com/alsornak/Note-Taker",
         "deploy": "https://pure-anchorage-33232.herokuapp.com/",
-        "topics": "node, express, inquirer, bootstrap, googlefonts, npm"
+        "topics": "node, inquirer, express, bootstrap, googlefonts"
     },
     {
         "id": 3,
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Work Day Scheduler",
-        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
+        "image": "/Users/sornaalagappan/Desktop/Sorna/Homework trail/Sorna-react/src/assets/images/work-day-scheduler.gif",
         "github": "https://github.com/alsornak/Work-Day-Scheduler-Week5",
         "deploy": "https://alsornak.github.io/Work-Day-Scheduler-Week5/",
         "topics": "HTML5, CSS, Javascript, MomentJS, Bootstrap"

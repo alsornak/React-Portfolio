@@ -19,12 +19,6 @@ main {
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
-  --orange-soda:#F06543;
-  --platinum:#E8E9EB;
-  --alabaster:#E0DFD5;
-  --onyx:#313638;
-  --sandy-brown: #F09D51;
-
 
 }
 
@@ -406,19 +400,4 @@ a {
 
 .navActive {
   color: var(--secondary);
-}
-
-#footer .icon {
-  background-color: var(--onyx);
-  margin-top: 20px;
-}
-
-#footer p {
-  background-color: var(--onyx);
-  margin-top: 8px;
-}
-
-#footer a {
-  text-decoration: none;
-  color: var(--orange-soda);
 }
