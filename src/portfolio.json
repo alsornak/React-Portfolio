@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "React Retreat",
+        "name": "Travel Application",
         "image": "https://github.com/alsornak/React-Portfolio/raw/master/src/assets/images/Travel-App-demo.png",
         "github": "https://github.com/alsornak/Travel-Application",
         "deploy": "https://eugene32.github.io/Travel-Application/",
