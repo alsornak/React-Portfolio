@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "React Retreat",
+        "image": "Travel-App-demo.png",
+        "github": "https://github.com/alsornak/Travel-Application",
+        "deploy": "https://eugene32.github.io/Travel-Application/",
+        "topics": "HTML, CSS, JavaScript, momentjs, Bulma, server APIs"
+    },
+    {
+        "id": 2,
+        "name": "Note Taker",
+        "image": "assets/images/Note-Taker.png",
+        "github": "https://github.com/alsornak/Note-Taker",
+        "deploy": "https://pure-anchorage-33232.herokuapp.com/",
+        "topics": "node, express, inquirer, bootstrap, googlefonts, npm"
+    },
+    {
+        "id": 3,
+        "name": "Tech Blog",
+        "image": "assets/images/Tech-Blog.png",
+        "github": "https://github.com/alsornak/MVC-Tech-Blog",
+        "deploy": "https://week14techblog.herokuapp.com/",
+        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "assets/images/Weather-Dashboard.png",
+        "github": "https://github.com/alsornak/Weather-Dashboard",
+        "deploy": "https://alsornak.github.io/Weather-Dashboard/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
+        "github": "https://github.com/alsornak/Work-Day-Scheduler-Week5",
+        "deploy": "https://alsornak.github.io/Work-Day-Scheduler-Week5/",
+        "topics": "HTML5, CSS, Javascript, MomentJS, Bootstrap"
+    },
+    {
+        "id": 6,
+        "name": "Coding quiz",
+        "image": "assets/images/coding-quiz",
+        "github": "https://github.com/alsornak/Homework-Week4-SK",
+        "deploy": "https://alsornak.github.io/Homework-Week4-SK/",
+        "topics": "HTML5, CSS, Javascript"
+    }
+]
