@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "React Retreat",
-        "image": "Travel-App-demo.png",
+        "image": "https://github.com/alsornak/React-Portfolio/raw/master/src/assets/images/Travel-App-demo.png",
         "github": "https://github.com/alsornak/Travel-Application",
         "deploy": "https://eugene32.github.io/Travel-Application/",
         "topics": "HTML, CSS, JavaScript, momentjs, Bulma, server APIs"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Note Taker",
-        "image": "assets/images/Note-Taker.png",
+        "image": "./assets/images/Note-Taker.png",
         "github": "https://github.com/alsornak/Note-Taker",
         "deploy": "https://pure-anchorage-33232.herokuapp.com/",
         "topics": "node, express, inquirer, bootstrap, googlefonts, npm"
