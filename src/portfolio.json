@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Note Taker",
-        "image": "./assets/images/Note-Taker.png",
+        "image": "../../assets/images/avatar.png",
         "github": "https://github.com/alsornak/Note-Taker",
         "deploy": "https://pure-anchorage-33232.herokuapp.com/",
         "topics": "node, inquirer, express, bootstrap, googlefonts"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Tech Blog",
-        "image": "assets/images/Tech-Blog.png",
+        "image": "/assets/images/Tech-Blog.png",
         "github": "https://github.com/alsornak/MVC-Tech-Blog",
         "deploy": "https://week14techblog.herokuapp.com/",
         "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"

@@ -1,4 +1,5 @@
 import React from 'react';
+import image1 from "../../assets/images/avatar.png"
 
 function About() {
 
@@ -7,7 +8,7 @@ function About() {
             <h2 class="top-title">Sorna Kesavan</h2>
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src="./assets/images/avatar.png" alt="Sorna Kesavan" />
+                <img class="mb-5" id="avatar" src={image1} alt="Sorna Kesavan" />
 
                 <p>
                 Dedicated and focused customer-oriented professional excels at prioritizing, completing
