@@ -1,4 +1,5 @@
 import React from "react";
+import resume1 from "../../assets/resume.pdf"
 
 function Resume() {
   return (
@@ -25,8 +26,7 @@ function Resume() {
           </p>
 
           <a
-            href="assets/resume.pdf"
-            target="_blank"
+            href={resume1}
             class="link"
           >
             Download Resume

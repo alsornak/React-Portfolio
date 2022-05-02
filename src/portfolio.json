@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Travel Application",
-        "image": "https://github.com/alsornak/React-Portfolio/raw/master/src/assets/images/Travel-App-demo.png",
+        "image": "../../public/images1/Travel-App-demo.png",
         "github": "https://github.com/alsornak/Travel-Application",
         "deploy": "https://eugene32.github.io/Travel-Application/",
         "topics": "HTML, CSS, JavaScript, momentjs, Bulma, server APIs"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Note Taker",
-        "image": "../../assets/images/avatar.png",
+        "image": "../../public_url/images1/Note-Taker.gif",
         "github": "https://github.com/alsornak/Note-Taker",
         "deploy": "https://pure-anchorage-33232.herokuapp.com/",
         "topics": "node, inquirer, express, bootstrap, googlefonts"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Tech Blog",
-        "image": "/assets/images/Tech-Blog.png",
+        "image": "../images1/Tech-Blog.png",
         "github": "https://github.com/alsornak/MVC-Tech-Blog",
         "deploy": "https://week14techblog.herokuapp.com/",
         "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Work Day Scheduler",
-        "image": "/Users/sornaalagappan/Desktop/Sorna/Homework trail/Sorna-react/src/assets/images/work-day-scheduler.gif",
+        "image": "/Users/sornaalagappan/Desktop/Sorna/React-Portfolio/src/assets/images/work-day-scheduler.gif",
         "github": "https://github.com/alsornak/Work-Day-Scheduler-Week5",
         "deploy": "https://alsornak.github.io/Work-Day-Scheduler-Week5/",
         "topics": "HTML5, CSS, Javascript, MomentJS, Bootstrap"
