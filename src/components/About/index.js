@@ -1,5 +1,5 @@
 import React from 'react';
-import image1 from "../../assets/images/avatar.png"
+//import image1 from "../../assets/images/avatar.png"
 
 function About() {
 
@@ -8,7 +8,7 @@ function About() {
             <h2 class="top-title">Sorna Kesavan</h2>
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src={image1} alt="Sorna Kesavan" />
+            <img class="mb-5" id="avatar" src={`${process.env.PUBLIC_URL}/images/avatar.png`} alt="Sorna Kesavan" />
 
                 <p>
                 Dedicated and focused customer-oriented professional excels at prioritizing, completing

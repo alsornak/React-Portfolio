@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Travel Application",
-        "image": "../../public/images1/Travel-App-demo.png",
+        "image": "Travel-App-demo.png",
         "github": "https://github.com/alsornak/Travel-Application",
         "deploy": "https://eugene32.github.io/Travel-Application/",
         "topics": "HTML, CSS, JavaScript, momentjs, Bulma, server APIs"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Note Taker",
-        "image": "Note-Taker.gif",
+        "image": "Note-Taker.png",
         "github": "https://github.com/alsornak/Note-Taker",
         "deploy": "https://pure-anchorage-33232.herokuapp.com/",
         "topics": "node, inquirer, express, bootstrap, googlefonts"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "assets/images/Weather-Dashboard.png",
+        "image": "Weather-Dashboard.png",
         "github": "https://github.com/alsornak/Weather-Dashboard",
         "deploy": "https://alsornak.github.io/Weather-Dashboard/",
         "topics": "moment.js, javascript, jQuery, localStorage, API"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Work Day Scheduler",
-        "image": "/Users/sornaalagappan/Desktop/Sorna/React-Portfolio/src/assets/images/work-day-scheduler.gif",
+        "image": "work-day-scheduler.gif",
         "github": "https://github.com/alsornak/Work-Day-Scheduler-Week5",
         "deploy": "https://alsornak.github.io/Work-Day-Scheduler-Week5/",
         "topics": "HTML5, CSS, Javascript, MomentJS, Bootstrap"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Coding quiz",
-        "image": "assets/images/coding-quiz",
+        "image": "coding-quiz.gif",
         "github": "https://github.com/alsornak/Homework-Week4-SK",
         "deploy": "https://alsornak.github.io/Homework-Week4-SK/",
         "topics": "HTML5, CSS, Javascript"
