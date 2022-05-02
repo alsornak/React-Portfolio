@@ -23,6 +23,13 @@ function About() {
                 Successfully established effective systems for record retention by creating database for daily
                 correspondence tracking.
                 </p>
+                <p>
+                Excellent ability to troubleshoot and work with clients to solve problems or find solutions to requests.
+                Solid background in managing interactive elements of websites to create a fulfilling user experience based upon client guidelines.
+                </p>
+                <p>
+                Ability to work well under pressure to meet hard deadlines and stay within budget while still being able to provide clients with exactly what they want.
+                </p>
             </div>
         </section>
     )
