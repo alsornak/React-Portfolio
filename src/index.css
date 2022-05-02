@@ -29,6 +29,7 @@ main {
 html,
 body {
   min-height: 100%; 
+  background: #E0DFD5;
 }
 
 body {
